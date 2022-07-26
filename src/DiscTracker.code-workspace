@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "DiscTelemetry",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"bleserial.h": "c",
+			"bledevice.h": "c",
+			"bleserver.h": "c"
+		}
+	}
+}
